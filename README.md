@@ -10,7 +10,7 @@ app includes support of:
 - displaying the image as full size.
 - displaying a gallery of all images in app folder.
   including the ability to navigate back/foraward (each press ++ / -- 6 tumbnails images for page).
-- ability to change all app them color from ActioBar item (color picker icon).
+- ability to change all app theme color from ActionBar item (color picker icon).
 - ability to delete an image.
 - ability to display the total images counter.
 - ability to share the image via multiple options (not only mail).
