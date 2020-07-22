@@ -1,5 +1,5 @@
 # simpleTakePhoto
-a simple take photo exercise (android)
+A simple "take photo" app (android)
 this app demonstrates the use of android device camera for taking photos , share them , save them in app provate folder location with special use of "fileProvider" method (for
 granting the premissions to camera app to write the bitmap data to app private folder).
 app also includes multiple methods for parsing data from Intents comunication from one Activity to other.
