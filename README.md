@@ -9,7 +9,7 @@ app includes support of:
 - taking photo (save the bitmap data to File in app Private memory (via FileProvider).
 - displaying the image as full size.
 - displaying a gallery of all images in app folder.
-  + ability to navigate back/foraward (each press ++ / -- 6 tumbnails images for page).
+  including the ability to navigate back/foraward (each press ++ / -- 6 tumbnails images for page).
 - ability to change all app them color from ActioBar item (color picker icon).
 - ability to delete an image.
 - ability to display the total images counter.
