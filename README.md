@@ -16,3 +16,7 @@ app includes support of:
 - ability to share the image via multiple options (not only mail).
 
 * all app algorithms are my self made, nothing imported as Library (-:
+
+see video of app:
+
+https://www.dropbox.com/s/goz9e10u32ldf22/3sk3C9yZJF.mp4?dl=0
